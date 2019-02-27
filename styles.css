@@ -1,0 +1,16 @@
+h3 {
+    color: purple; 
+   }
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Mukta', sans-serif;
+}
+.section {
+    margin: 3em;
+    padding: 2em;
+    border: 1px solid black;
+#footer {
+    color: blue;
+}
+ 
+}
